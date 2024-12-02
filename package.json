@@ -1,7 +1,7 @@
 {
     "name": "Nowhere-Launcher",
     "preductname": "Nowhere-Launcher",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "description": "Launcher Minecraft du serveur Nowhere",
     "main": "src/app.js",
     "author": {
